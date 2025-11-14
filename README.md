@@ -1,6 +1,6 @@
 📁 ESTRUCTURA DEL PROYECTO TAMAGOTCHI
 ====================================
-
+```powershell
 Tamagochi/
 ├── main.py                          # Punto de entrada principal
 ├── app_gui.py                       # Clase principal que coordina todo
@@ -32,7 +32,7 @@ Tamagochi/
 │       └── gestor_juego.py          # Animaciones, estado y acciones
 │
 └── README.md                        # Documentación
-
+```
 
 DESCRIPCIÓN DE CARPETAS
 =======================
